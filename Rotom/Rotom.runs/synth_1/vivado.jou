@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Sun Apr  5 18:57:30 2020
+# Process ID: 24316
+# Current directory: C:/Users/alexn/OneDrive/Documents/Projects/HILTest/Rotom/Rotom.runs/synth_1
+# Command line: vivado.exe -log i2cAddrSwitch.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source i2cAddrSwitch.tcl
+# Log file: C:/Users/alexn/OneDrive/Documents/Projects/HILTest/Rotom/Rotom.runs/synth_1/i2cAddrSwitch.vds
+# Journal file: C:/Users/alexn/OneDrive/Documents/Projects/HILTest/Rotom/Rotom.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source i2cAddrSwitch.tcl -notrace

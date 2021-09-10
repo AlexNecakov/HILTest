@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Rotom.srcs/sources_1/new/i2cAddrSwitch.v" \
+"../../../../Rotom.srcs/sim_1/new/tb_i2cAddrSwitch.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
